@@ -16,6 +16,11 @@
     box-sizing: border-box;
 }
 
+::selection {
+    background: var(--primary-pink);
+    color: #fff;
+}
+
 img {
     max-width: 100%;
     display: block;
