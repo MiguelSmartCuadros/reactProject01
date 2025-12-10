@@ -446,7 +446,9 @@ section {
 
 .form-group input:focus,
 .form-group textarea:focus {
-    outline: 2px solid var(--primary-blue);
+    outline: none;
+    border: 2px solid var(--primary-blue);
+    box-shadow: 0 0 10px rgba(0, 182, 227, 0.4);
 }
 
 .btn-solid {
