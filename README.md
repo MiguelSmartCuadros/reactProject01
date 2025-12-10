@@ -1,6 +1,6 @@
 # Boombox Clone - Proyecto Web
 
-Este proyecto es una réplica (maquetación) del diseño "Boombox", desarrollado exclusivamente con **HTML5** y **CSS3** (utilizando Flexbox para el layout). El objetivo es crear una experiencia visual vibrante y responsiva sin el uso de JavaScript.
+Este proyecto es una réplica (maquetación) del diseño "Boombox", desarrollado exclusivamente con **HTML5** y **CSS3** (utilizando Flexbox para el layout). El objetivo es crear una maquetación inspirada en el diseño original: https://p.w3layouts.com/demos/boom_box/web/?_gl=1*8o1wzv*_ga*NTY1NDYwMTcwLjE3NjUzMzQyNjE.*_ga_9HSZ46TKMQ*czE3NjUzMzQyNjEkbzEkZzEkdDE3NjUzMzQ0NTEkajI0JGwwJGgw*_ga_EGV5GTJEP5*czE3NjUzMzQyNjEkbzEkZzEkdDE3NjUzMzQ0NTEkajI0JGwwJGgw*_ga_FFZF56TTWE*czE3NjUzMzQyNjEkbzEkZzEkdDE3NjUzMzQ0NTEkajMwJGwwJGgw&_ga=2.61685420.1050872575.1765334262-565460170.1765334261
 
 ## 🚀 Descripción
 
@@ -41,4 +41,4 @@ Este proyecto está preparado para ser migrado a **React** en futuras etapas. Se
 
 ## 👤 Autor
 
-Desarrollado como parte de la entrega para la clase de JS, React & Firebase.
+Desarrollado por Miguel Tabares como el entregable 01 para la clase de JS, React & Firebase.
