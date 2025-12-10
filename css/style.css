@@ -96,6 +96,7 @@ ul {
     font-size: 0.9rem;
     text-transform: uppercase;
     font-weight: 600;
+    transition: color 0.3s ease;
 }
 
 .main-nav a:hover,
