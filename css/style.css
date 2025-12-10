@@ -310,6 +310,7 @@ section {
 .btn-border:hover {
     background: #fff;
     color: var(--primary-blue);
+    transform: scale(1.05);
 }
 
 /* About Section */
