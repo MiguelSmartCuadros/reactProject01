@@ -343,6 +343,10 @@ section {
     transform: scale(1.05);
 }
 
+.btn-border:active {
+    transform: scale(0.95);
+}
+
 /* About Section */
 .about-section {
     background: var(--bg-dark);
