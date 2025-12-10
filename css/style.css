@@ -126,6 +126,7 @@ ul {
 .main-nav a:hover,
 .main-nav a.active {
     color: var(--primary-blue);
+    text-shadow: 0 0 5px rgba(0, 182, 227, 0.5);
 }
 
 /* Sections General */
